@@ -27,8 +27,8 @@ const Footer = () => {
                     perspiciatis atque nisi impedit similique aliquid nostrum accusantium ratione!
                 </p>
                 <div className='social'>
-                   <a href="https://github.com/klimenteen"><FaGithub size={30} style={{color:'#fff', marginRight:'1rem'}} /></a> 
-                    <FaTelegramPlane size={30} style={{color:'#fff', marginRight:'1rem'}} />
+                   <a href="https://github.com/klimenteen" target="_blank"><FaGithub size={30} style={{color:'#fff', marginRight:'1rem'}} /></a> 
+                    <a href="tg://resolve?domain=Kliment_dev" target="_blank"> <FaTelegramPlane size={30} style={{color:'#fff', marginRight:'1rem'}} /></a>
                     <FaTwitter size={30} style={{color:'#fff', marginRight:'1rem'}} />
                 </div>
             </div>

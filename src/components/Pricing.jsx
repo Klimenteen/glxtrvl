@@ -14,7 +14,7 @@ const PricingCards = () => {
                 <p>a</p>
                 <p>handsome</p>
                 <p>devil</p>
-                <Link to='./contact' className='btn'>Book</Link>
+                <Link to='/contact' className='btn'>Book</Link>
             </div>
             <div className='card'>
                 <h3>- Luxury -</h3>
@@ -24,7 +24,7 @@ const PricingCards = () => {
                 <p>a</p>
                 <p>handsome</p>
                 <p>devil</p>
-                <Link to='./contact' className='btn'>Book</Link>
+                <Link to='/contact' className='btn'>Book</Link>
             </div>
             <div className='card'>
                 <h3>- Jeffrey Bezos  -</h3>
@@ -34,7 +34,7 @@ const PricingCards = () => {
                 <p>a</p>
                 <p>handsome</p>
                 <p>devil</p>
-                <Link to='./contact' className='btn'>Book</Link>
+                <Link to='/contact' className='btn'>Book</Link>
             </div>
         </div>
     </div>

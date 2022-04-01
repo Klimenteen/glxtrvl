@@ -5,8 +5,7 @@
     padding: 0;
 }
 
-html {
-}
+
 
 h1,h4,p,a {
     color: #fff;
@@ -51,9 +50,11 @@ code {
     background: rgba(255, 255, 255, .2);
 }
 
+
 .btn:hover {
     background: rgba(255, 255, 255, .2);
 }
+
 
 
 ::-webkit-scrollbar {
