@@ -15,7 +15,7 @@ const Navbar = () => {
       <ul className={click ? "nav-menu active":"nav-menu" }>
            {/* могу не писать функицию а вставить условие прямо в тег POG */}
         <li>
-          <Link to="/home">Home</Link>
+          <Link to="/">Home</Link>
         </li>
         <li>
           <Link to="/pricing">Pricing</Link>

@@ -6,10 +6,9 @@
 }
 
 html {
-    min-height: 100vh;
 }
 
-h1,p,a {
+h1,h4,p,a {
     color: #fff;
 }
 
