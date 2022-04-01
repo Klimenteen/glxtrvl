@@ -1,23 +1,25 @@
 import React from "react";
 import { Routes, Route } from "react-router-dom";
 import "./index.css";
-
-import Home from "./routes/Home";
+import Navbar from "./components/NavBar";
 import Pricing from "./routes/Pricing";
 import Training from "./routes/Training"
 import Contact from "./routes/Contact"
+import Footer from "./components/Footer";
+import Video from './components/Video'
 
 
 function App() {
   return (
     <>
-      <Routes>
-      <Route path="/" element={<Home />} />
+    <Navbar />
+    <Routes>
+      <Route path="/" element={<Video />} />
       <Route path="/pricing" element={<Pricing />} />
       <Route path="/training" element={<Training /> } />
       <Route path="/contact" element={<Contact /> } />
-
-      </Routes>
+    </Routes>
+    <Footer />
     </>
   );
 }
