@@ -4,7 +4,7 @@ import HeroImage from "../components/HeroImage";
 import Navbar from "../components/NavBar";
 import PricingCards from "../components/Pricing";
 
-function Pricing() {
+const Pricing= () => {
   return (
     <div>
       <Navbar />

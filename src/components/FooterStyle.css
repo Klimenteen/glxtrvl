@@ -27,6 +27,8 @@
   flex-direction: column;
   padding: 1rem;
   margin: auto;
+  z-index: 9;
+
 }
 
 .footer h4 {
