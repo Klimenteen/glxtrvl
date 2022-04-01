@@ -1,6 +1,5 @@
 import React from 'react'
 import {FaGithub,  FaTelegramPlane, FaMailBulk, FaPhone, FaSearchLocation, FaTwitter} from 'react-icons/fa'
-
 import './FooterStyle.css'
 
 
