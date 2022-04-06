@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/glxtrvl/static/css/main.5def2ab6.css",
+    "main.js": "/glxtrvl/static/js/main.ceb316ee.js",
+    "static/media/space.mp4": "/glxtrvl/static/media/space.41584ed51700d249bf73.mp4",
+    "static/media/heroImg.jpg": "/glxtrvl/static/media/heroImg.717ecc48caf23ce480de.jpg",
+    "static/media/moon.jpg": "/glxtrvl/static/media/moon.91396c73f099b0f6971b.jpg",
+    "static/media/pod.jpg": "/glxtrvl/static/media/pod.30776f82b7df80237211.jpg",
+    "index.html": "/glxtrvl/index.html",
+    "main.5def2ab6.css.map": "/glxtrvl/static/css/main.5def2ab6.css.map",
+    "main.ceb316ee.js.map": "/glxtrvl/static/js/main.ceb316ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5def2ab6.css",
+    "static/js/main.ceb316ee.js"
+  ]
+}
