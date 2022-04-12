@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import "./VideoStyles.css";
 import spaceVideo from "../assets/space.mp4";
 
-const Video = () => {
+const Main = () => {
   return (
     <div className="hero">
       <video autoPlay loop muted id="video">
@@ -21,4 +21,4 @@ const Video = () => {
   );
 };
 
-export default Video;
+export default Main;

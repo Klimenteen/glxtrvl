@@ -37,4 +37,6 @@
   .hero-img h1 {
     font-size: 2rem;
   }
+  .hero-img .heading {
+    margin: 0;}
 }

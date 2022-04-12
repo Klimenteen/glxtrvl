@@ -57,7 +57,7 @@
 }
 
 .footer .email,
-.phone {
+.footer .phone {
   white-space: nowrap;
 }
 
@@ -69,4 +69,13 @@
   .right .social {
     margin: auto;
   }
+}
+
+@media screen and (max-width: 347px) {
+
+
+.footer h4, 
+.footer p{
+  font-size: 14px;
+}
 }
